@@ -23,8 +23,6 @@ Uloge u sistemu su neregistrovani korisnik, registrovani korisnik, developer, ad
 * sve što može registrovani korisnik
 * dodavanje igrice
 * objavljivanje postova
-#### Proširenja za diplomski:
-##### Developer igre:
 * izmena igrice
 * brisanje igrice
 * brisanje posta
@@ -33,6 +31,7 @@ Uloge u sistemu su neregistrovani korisnik, registrovani korisnik, developer, ad
 * brisanje postova
 * brisanje igrice
 * brisanje komentara
+
 ## Arhitektura aplikacije
 Aplikacija se sastoji od mikroservisa koji će biti implementirani u
 pythonu koristeći Flask, Pharo i Go programski jezik. Frontend će biti implementiran u React-u. Za baze podataka će biti korišćeni Postgres i MongoDB.
