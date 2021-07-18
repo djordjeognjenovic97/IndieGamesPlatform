@@ -4,7 +4,7 @@
 IndieGamesPlatform je platforma gde developeri mogu da postavljaju informacije i novosti (blog postove) o
 svojim igrama. Ostali korisnici mogu da ocenjuju i komentarišu igre,
 kao i da imaju listu omiljenih igara i listu želja. Takođe, korisnici mogu da pretražuju igre po tagovima, izdavačima i nazivu.
-Uloge u sistemu su neregistrovani korisnik, registrovani korisnik, developer, administator (proširenje za diplomski).
+Uloge u sistemu su neregistrovani korisnik, registrovani korisnik, developer, administator.
 ## Funkcionalnosti
 ##### Neregistrovani korisnik:
 * login
